@@ -1,4 +1,4 @@
-# мвnifest AI Bot 🤖⚡
+# mvnifest AI Bot 🤖⚡
 
 [![n8n](https://img.shields.io/badge/Powered%20by-n8n-13BAA8)](https://n8n.io) 
 [![Telegram](https://img.shields.io/badge/Telegram-Bot-2CA5E0)](https://core.telegram.org/bots)
