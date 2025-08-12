@@ -29,7 +29,7 @@ An intelligent Telegram bot powered by n8n with natural language interactions an
 
 ## 🚀 Quick Start
 1. Clone this repo
-2. Import `manifest-bot.json` to n8n
+2. Import `mvnifest-bot.json` to n8n
 3. Configure:
    ```env
    TELEGRAM_TOKEN=your_bot_token
