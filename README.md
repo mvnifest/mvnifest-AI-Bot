@@ -12,10 +12,11 @@ An intelligent Telegram bot built with n8n that bridges conversational AI with G
 - **Slack notifications** (optional alerts for new interactions)
 
 ## 🖼️ Screenshots
-| Telegram Mobile | n8n Workflow | Google Sheets Output |
-|-----------------|--------------|----------------------|
-| ![Mobile](screenshots/telegram-mobile.jpg) | ![n8n](screenshots/n8n-desktop.png) | ![Sheets](screenshots/sheets-output.png) |
-
+<div align="center">
+| Telegram Desktop | Telegram Mobile | n8n Workflow |
+|------------------|-----------------|--------------|
+| <img src="screenshots/telegram-desktop.jpg" width="250"> | <img src="screenshots/telegram-mobile.jpg" width="250"> | <img src="screenshots/n8n-workflow.png" width="250"> |
+</div>
 ## ⚙️ Tech Stack
 - **Core**: n8n workflow automation
 - **Integrations**: 
